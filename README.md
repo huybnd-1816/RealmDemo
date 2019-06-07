@@ -6,7 +6,7 @@ Create App using Realm Database
 
 ## **Encryption in Realm:**
 #### Step 1: #### 
-Create encryption key for Realm database:[getKey](https://github.com/huybnd-1816/RealmDemo/blob/develop/RealmDemo/RealmDemo/Helper/RealmConfigure.swift).
+Create encryption key for Realm database: [getKey()](https://github.com/huybnd-1816/RealmDemo/blob/develop/RealmDemo/RealmDemo/Helper/RealmConfigure.swift).
 
 
 #### Step 2: ####

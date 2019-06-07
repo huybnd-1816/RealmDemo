@@ -13,7 +13,7 @@ final class RealmService {
     var realmDB: Realm?
     
     //MARK: Init
-//    private init() {}
+    private init() {}
 }
 
 extension RealmService {
